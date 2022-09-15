@@ -1,0 +1,44 @@
+body {
+    background-color:rgb(241, 241, 241);
+}
+.upwrapper {
+    background-color: white;
+    padding: 20px;
+    margin: -10px;
+}
+.upwrapperdiv {
+width: 50%;    
+margin:0 auto;
+}
+.upwrapperdiv h1{
+    font-size: 24px;
+}
+.wrapper {
+   margin:0 auto;
+   width: 50%;
+   background-color: white;
+   margin-top: 50px;
+   margin-bottom: 50px;
+}
+.topdiv {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.myfirstphoto h1 {
+    font-size: 18px;
+}
+.myfirstphoto {
+    float: left;
+}
+.myfirstphotocount p {
+    color: rgb(180, 179, 179);
+    float: right;
+}
+img {
+    width: 100%;
+    margin-bottom: -20px;
+}
+.bottomdiv p {
+    font-size: 18px;
+    padding:20px;
+}
